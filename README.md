@@ -8,12 +8,6 @@
 * React used in frontend and Node.js in backend.
 * react-hot-toast used for notification.
 * uuid library for generating random long string for using as Room ID.
-### Production
-* first add the env variable value to platform used for deployment of client code.
-* use "REACT_APP_WEB_SOCKET_URL" key name and assign server code production url as value.
-* in client, run "npm run build" for test run.
-* in deployment platform for client code, select the client as "root folder".
-* NOTE: above step is not required in case if manually hosting on server
   
 # IMAGES OF WEBSITE
 
